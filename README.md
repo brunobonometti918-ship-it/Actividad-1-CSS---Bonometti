@@ -9,7 +9,7 @@
 </head>
 <body>
 
-    <h1>Lionel Messi</h1>
+<h1>Lionel Messi</h1>
 <p>Lionel Messi es un futbolista argentino nacido el 24 de junio de 1987 en Rosario, Santa Fe.</p>
   <p class="importante">Es considerado uno de los mejores jugadores de la historia del fútbol.</p>
 <p id="especial">En 2022, consiguió ganar la Copa del Mundo junto a la selección, en Qatar.</p>
